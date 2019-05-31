@@ -1,5 +1,5 @@
 //
-//  Model.swift
+//  UserDetails.swift
 //  Weather
 //
 //  Created by Rakhi goel on 5/31/19.
